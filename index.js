@@ -1,5 +1,4 @@
- ￼
-const {
+ const {
     WAConnection,
     MessageType,
     Presence,
